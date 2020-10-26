@@ -8,7 +8,7 @@ export default function Home() {
       <div className={styles.container}>
         <main className={styles.main}>
           <h1 className={styles.title}>
-            Welcome to Listiversify (yes, all the good names were taken)
+            Welcome to Listiversify (yes, all the good names were taken)!
           </h1>
         </main>
       </div>
