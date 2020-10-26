@@ -2,13 +2,13 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import Layout from "../components/Layout";
 
-export default function Home() {
+export default function Home(props) {
   return (
-    <Layout title='Home'>
+    <Layout title='About'>
       <div className={styles.container}>
         <main className={styles.main}>
           <h1 className={styles.title}>
-            Welcome to Listiversify (yes, all the good names were taken)
+            About
           </h1>
         </main>
       </div>
