@@ -4,6 +4,7 @@ const Navbar = (props)  => (
   
   <nav className="navbar navbar-expand navbar-dark bg-primary mb-4">
     <div className="container">
+      
     <Link href="/"><a class="navbar-brand">Listiversify</a></Link>
       <div className="collapse navbar-collapse">
         <ul className="navbar-nav ml-auto">

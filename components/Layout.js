@@ -4,6 +4,7 @@ import styles from '../styles/Home.module.css'
 const Layout = (props) => (
 
   <div>
+    
     <Head>
       <title>{props.title}</title>
       <link rel="icon" href="/favicon.ico" />
